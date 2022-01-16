@@ -1,2 +1,3 @@
-# ruby-algoritmos
- Repositório destinado aos exemplos do livro "Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos".
+# Ruby - Algoritmos
+
+Repositório destinado aos exemplos do livro "Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos".
