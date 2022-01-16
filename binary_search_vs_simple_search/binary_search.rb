@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative('./search')
+require_relative('../lib/search')
 
 # binary search implementation
 class BinarySearch < Search
