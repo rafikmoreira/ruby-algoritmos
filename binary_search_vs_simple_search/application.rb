@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require_relative('../lib/header')
-require_relative('./binary_search')
+require_relative('../search_algorithms/binary_search')
 
 # main class
 class Application
